@@ -15,4 +15,4 @@ class Solution {
       }
       return max(l, r) - min(l, r) + op;
    }
-}
+};
